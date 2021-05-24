@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itTrangChu"
+            android:title="@string/trangchu"
+            android:icon="@drawable/trangchu">
+        </item>
+
+        <item
+            android:id="@+id/itThucDon"
+            android:title="@string/thucdon"
+            android:icon="@drawable/logodangnhap">
+
+        </item>
+
+        <item
+            android:id="@+id/itNhanVien"
+            android:title="@string/nhanvien"
+            android:icon="@drawable/nhanvien">
+
+        </item>
+
+        <item
+            android:id="@+id/idDangxuat"
+            android:title="@string/dangxuat"
+            android:icon="@drawable/ic_baseline_reply_24">
+        </item>
+    </group>
+
+
+</menu>
